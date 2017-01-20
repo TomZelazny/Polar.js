@@ -10,4 +10,4 @@ A couple of fiddles that mess with the concept:
 <li><a href='https://jsfiddle.net/TomZelazny/0y1esLre/'>basic structure of the polar class</a>
 </ul>
 
-<p>have not quite decided on an interface yet, these are just toying around with some ideas</p>
+<p>not quite decided on how the interface should be yet, just toying around with some ideas</p>
