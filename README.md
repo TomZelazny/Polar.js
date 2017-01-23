@@ -12,11 +12,11 @@ A couple of fiddles that mess with the concept:
 
 <p>I think the interface should look like this:</p>
 <code>
-  Polar("css-element") // returns PolarBaseElement
-  .appendElement("html/domElement") // returns polarOrbitElement (adds to polarBase children)
-  .placeAt("deg","radius/border") // return polarOrbitElement
-  .animate("cssAnimation") // return polarOrbitElement
-  .show(); // return polarOrbitElement
+  Polar("css-element") // returns PolarBaseElement\n
+  .appendElement("html/domElement") // returns polarOrbitElement (adds to polarBase children)\n
+  .placeAt("deg","radius/border") // return polarOrbitElement\n
+  .animate("cssAnimation") // return polarOrbitElement\n
+  .show(); // return polarOrbitElement\n
 </code>
 
 this is probably helpful:
