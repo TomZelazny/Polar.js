@@ -13,5 +13,7 @@ A couple of fiddles that mess with the concept:
 <p>not quite decided on how the interface should be yet, just toying around with some ideas</p>
 
 this is probably helpful:
-http://benice-equation.blogspot.co.il/2016/10/equation-of-rounded-rectangle.html
-http://math.stackexchange.com/questions/1649714/whats-the-equation-for-a-rectircle-perfect-rounded-corner-rectangle-without-s
+<ul>
+<li>http://benice-equation.blogspot.co.il/2016/10/equation-of-rounded-rectangle.html</li>
+<li>http://math.stackexchange.com/questions/1649714/whats-the-equation-for-a-rectircle-perfect-rounded-corner-rectangle-without-s</li>
+</ul>
