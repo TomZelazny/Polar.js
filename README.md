@@ -10,7 +10,14 @@ A couple of fiddles that mess with the concept:
 <li><a href='https://jsfiddle.net/TomZelazny/0y1esLre/'>basic structure of the polar class</a>
 </ul>
 
-<p>not quite decided on how the interface should be yet, just toying around with some ideas</p>
+<p>I think the interface should look like this:</p>
+<code>
+  Polar("css-element") // returns PolarBaseElement
+  .appendElement("html/domElement") // returns polarOrbitElement (adds to polarBase children)
+  .placeAt("deg","radius/border") // return polarOrbitElement
+  .animate("cssAnimation") // return polarOrbitElement
+  .show(); // return polarOrbitElement
+</code>
 
 this is probably helpful:
 <ul>
